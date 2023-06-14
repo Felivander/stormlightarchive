@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9c2f5cc.css",
+    "main.js": "/static/js/main.6a70cc27.js",
+    "static/media/oathbringer.jpg": "/static/media/oathbringer.2e9ef9eb9e1040625cfe.jpg",
+    "static/media/row.jpg": "/static/media/row.c8ea316280a307a95840.jpg",
+    "static/media/twok.jpg": "/static/media/twok.55bfaf4fe360b8c25ccf.jpg",
+    "static/media/wor.jpg": "/static/media/wor.74fb1e71976866472b4b.jpg",
+    "index.html": "/index.html",
+    "main.e9c2f5cc.css.map": "/static/css/main.e9c2f5cc.css.map",
+    "main.6a70cc27.js.map": "/static/js/main.6a70cc27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c2f5cc.css",
+    "static/js/main.6a70cc27.js"
+  ]
+}
